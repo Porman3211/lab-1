@@ -1,20 +1,33 @@
 // Programmer: Mocnangan Grant
 // Date: 9/6/2024
 // Lab challenge #1
-package cc21n.mocnangan;
-public class CC21NMocnangan {
+
+public class Main {
   public static void main(String[] args) {
-    System.out.println("\t\t\t\t\"10 Eleven\"");
-    System.out.println("Located at: Muller street, Crytsal cave, \nBakakeng central, Baguio City");
-    System.out.println("\n");
-    System.out.println("Manager: Joel\t\t\t\t\t\tTime: 10:45pm");
-    System.out.println("Date: 9/4/24\t\t\t\t\t\tNo:360540720");
-    System.out.println("\n\n\n");
-    System.out.println("Items:\t\t\t\t\t\t\t\t\tPrice:\n.Vitasoy\t\t\t\t\t\t\t\tP75.00\n.Burger\t\t\t\t\t\t\t\t\tP50.00\n.Choco bar\t\t\t\t\t\t\t\tP25.00\n.Fries\t\t\t\t\t\t\t\t\tP30.00\n.Soda\t\t\t\t\t\t\t\t\tP20.00\n.Chips\t\t\t\t\t\t\t\t\tP15.00\n.Water\t\t\t\t\t\t\t\t\tP15.00\n.Candy\t\t\t\t\t\t\t\t\tP5.00");
-    System.out.println("\nSold Items:8\t\t\t\t\t\tTotal: P235.00\nCash: 300\t\t\t\t\t\t\tChange: P65.00");
-    System.out.println("\n");
-    System.out.println("\tThank you very much for shopping at 10 Eleven!");
+      System.out.println("\t\t\t\t\"10 Eleven\"");
+      System.out.println("\n\tLocated at: Muller street, Crytsal cave, \n\t   Bakakeng      central, Baguio City");
     
+      System.out.println("\n");
+      System.out.println("Manager: Joel\t\t\t\t\t\tTime: 10:45pm");
+      System.out.println("Date: 9/4/24\t\t\t\t\t\tNo:360540720");
+      System.out.println("\n\n\n");
+    
+      System.out.println("Items:\t\t\t\t\t\t\t\t\tPrice:");
+      System.out.println("\nVitasoy\t\t\t\t\t\t\t\t\tP75.00");
+      System.out.println("\nBurger\t\t\t\t\t\t\t\t\tP50.00");
+      System.out.println("\nChoco bar\t\t\t\t\t\t\t\tP25.00");
+      System.out.println("\nFries\t\t\t\t\t\t\t\t\tP30.00");
+      System.out.println("\nSoda\t\t\t\t\t\t\t\t\tP20.00");
+      System.out.println("\n.Chips\t\t\t\t\t\t\t\t\tP15.00");
+      System.out.println("\n.Water\t\t\t\t\t\t\t\t\tP15.00");
+      System.out.println("\n.Candy\t\t\t\t\t\t\t\t\tP5.00");
+    
+    
+    
+      System.out.println("\nSold Items:8\t\t\t\t\t\tTotal: P235.00\nCash: 300\t\t\t\t\t\t\tChange: P65.00");
+      System.out.println("\n");
+      dSystem.out.println("\tThank you very much for shopping at 10 Eleven!");
+
   }
 
 }
